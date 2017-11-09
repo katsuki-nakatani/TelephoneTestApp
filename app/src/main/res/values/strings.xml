@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelephoneTest</string>
+    <string name="channel_missed_id">channel Id</string>
+    <string name="channel_missed_label">missed call</string>
+    <string name="missed_call_public_notification_title">%d missed call item</string>
+    <string name="missed_call_notification_title">missed call</string>
+</resources>
